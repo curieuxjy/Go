@@ -1,9 +1,9 @@
 # Go
 Golang study
-[!go_img](https://miro.medium.com/max/3152/1*Ifpd_HtDiK9u6h68SZgNuA.png)
+![go_img](https://miro.medium.com/max/3152/1*Ifpd_HtDiK9u6h68SZgNuA.png)
 
 **Head First Go** ([제이 맥가브렌](http://jay.mcgavren.com/) 저, 권민재 역, 한빛미디어)
-[!book_img](https://lh3.googleusercontent.com/proxy/BfYW0JVlE2JreKHlXh_gc-TKCW7o5LW-4muV9-ZGTcMWVUYPts7VMh_fghS4Dq6_txfLa0JI0GIy8Bdh176S)
+![book_img](https://lh3.googleusercontent.com/proxy/BfYW0JVlE2JreKHlXh_gc-TKCW7o5LW-4muV9-ZGTcMWVUYPts7VMh_fghS4Dq6_txfLa0JI0GIy8Bdh176S)
 
 > 자세한 내용은 책을 참고해주세요 :)
 

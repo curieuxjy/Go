@@ -1,12 +1,13 @@
 # Go
 Golang study
 
-<img src="https://miro.medium.com/max/3152/1*Ifpd_HtDiK9u6h68SZgNuA.png" width="50%" height="50%" alt="go_img"></img>
+<img src="./img/1.png" width="50%" height="50%" alt="go_img"></img>
 
 **Head First Go** ([제이 맥가브렌](http://jay.mcgavren.com/) 저, 권민재 역, 한빛미디어)
 
-<img src="https://lh3.googleusercontent.com/proxy/BfYW0JVlE2JreKHlXh_gc-TKCW7o5LW-4muV9-ZGTcMWVUYPts7VMh_fghS4Dq6_txfLa0JI0GIy8Bdh176S" width="50%" height="50%" alt="book_img"></img>
+<img src="./img/1.jpg" width="30%" height="30%" alt="book_img"></img>
 
+* [Github](https://github.com/headfirstgo)
 > 자세한 내용은 책을 참고해주세요 :)
 
 ### Golang 익혀서 해보고 싶은 것들 list

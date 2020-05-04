@@ -21,7 +21,7 @@ func main() {
 	   all texts before pushing the Enter keyboard
 	   ReadString argument type is rune
 	*/
-	input, err := reader.ReadString('\n') //사용하지 않는 var err 추가
+	input, _ := reader.ReadString('\n') //사용하지 않는 var err 추가 -> _로 대체
 	fmt.Println(input)
 
 	//get several returns

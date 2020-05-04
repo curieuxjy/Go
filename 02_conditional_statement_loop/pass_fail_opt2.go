@@ -4,6 +4,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"log"
 	"os"
 )
 
@@ -22,6 +23,16 @@ func main() {
 	   ReadString argument type is rune
 	*/
 	input, err := reader.ReadString('\n') //사용하지 않는 var err 추가
+
+	if err != nil {
+		log.Fatal(err)
+	}
+	/*
+	log 패키지의 Fatal로 에러 보고
+	Fatal이란 프로그램을 "종료"한다는 에러를 보고한다는 의미
+	*/
+	//log.Fatal(err) // nil 반환
+
 	fmt.Println(input)
 
 	//get several returns

@@ -12,6 +12,7 @@ Golang study
 
 ### Golang 익혀서 해보고 싶은 것들 list
 * [Gobot](https://gobot.io/)
+* [Blockchain GO](https://github.com/Jeiwan/blockchain_go)
 
 ## Contents
 |chapter|content|code|memo|
